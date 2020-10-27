@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+27,John Weick,KY,6.00,Carpet,120,2.25,2.10,270.00,252.00,31.32,553.32

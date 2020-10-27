@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+33,Tenzin,WA,9.25,Wood,100,5.15,4.75,515.00,475.00,91.58,1081.58

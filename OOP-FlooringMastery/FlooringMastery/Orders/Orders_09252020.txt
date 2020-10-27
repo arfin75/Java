@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+26,John,WA,9.25,Tile,120,3.50,4.15,420.00,498.00,84.92,1002.92
